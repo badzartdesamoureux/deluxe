@@ -1,4 +1,4 @@
-baseURL      = "https://badzart.netlify.app/"
+baseURL      = "https://lebadzartdesamoureux.netlify.app/"
 title        = "Le BadZart Des Amoureux"
 disableKinds = ["section", "taxonomy", "term"]
 
